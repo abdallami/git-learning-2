@@ -1,0 +1,6 @@
+Nom:Oumar
+Prenom:Moustapha
+Lieu:Agadez
+Statut:Celibataire
+Profil:Etudiant
+
