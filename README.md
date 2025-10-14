@@ -1,5 +1,5 @@
-## Correction d'exercice n°2 :  
-# Branching & Merging .
+# Correction d'exercice n°2 :  
+## Branching & Merging .
 1. Creation d'une branche  on tape la commande suivante:   
  - git branch le nom de la branche ("myself") ;
 2. Accedez à la branche crée ,créer un fichier about.Txt avec des infos:  
